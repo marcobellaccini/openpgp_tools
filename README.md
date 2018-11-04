@@ -1,7 +1,7 @@
-# OpenPGP_Tools
+# openpgp_tools
 [![Build Status](https://travis-ci.org/marcobellaccini/openpgp_tools.svg?branch=master)](https://travis-ci.org/marcobellaccini/openpgp_tools)
 
-OpenPGP_Tools is an Elixir library to inspect the
+openpgp_tools is an Elixir library to inspect the
 [OpenPGP file format](https://tools.ietf.org/html/rfc4880).
 
 It is incomplete, but already capable to parse files containing OpenPGP packets.
